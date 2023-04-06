@@ -22,3 +22,6 @@ ___
   [https://sdacs.ucsd.edu/-icc/indet.php](https://sdacs.ucsd.edu/~icc/index.php)
   
   This Link will help us go to the site to access our accounts, but first we have to log in
+  
+  When you are able to log with the directions on screen you should be able to come to a site like this: 
+  ![test](Screenshot 2023-04-06 at 12.06.19 PM.png)

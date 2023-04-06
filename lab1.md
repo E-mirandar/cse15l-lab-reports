@@ -17,4 +17,6 @@ With all of these things in mind, we Can begin on understaing how to access our 
   
   TO even access are desired school acount, we must first find out which school account we want to use, we are able to do this by going to this Link"
   
-    > https://sdacs.ucsd.edu/-icc/indet.php(https://sdacs.ucsd.edu/~icc/index.php)
+  https://sdacs.ucsd.edu/-icc/indet.php(https://sdacs.ucsd.edu/~icc/index.php)
+  
+  This Link will help us go to the site to access our accounts, but first we have to log in

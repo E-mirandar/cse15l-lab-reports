@@ -25,4 +25,4 @@ ___
   
   When you are able to log with the directions on screen you should be able to come to a site like this: 
   
-![test](Screenshot 2023-04-06 at 12.06.19 PM.png)
+![test](Screenshot 2023-04-06 at 12.06.19 PM.jpg)

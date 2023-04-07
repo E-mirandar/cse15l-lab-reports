@@ -26,3 +26,29 @@ ___
   When you are able to log with the directions on screen you should be able to come to a site like this: 
   
 ![test](Screenshot 2023-04-06 at 12.06.19 PM.jpg)
+
+Now that you are able to log in using your active directory, you can now click on your CSE 15l account or any other account that you please (make sure you copy the account name since this will be used for later)
+
+___
+
+# Step 2: 
+
+## Restart the password of the account you chose
+
+Within the site we have access, make sure you go your way to the "Global Password Change Tool
+
+(Insert Screen Shot here)
+
+Proceed where it says "Proceed to the Password Change Tool
+
+(Screen Shot here)
+
+With the chosen name you selected, paste it In The AD Password Change tool where it says "Enter your username", this can be a class specific username like the cs15l one or your ucsd email account, which ever you please
+
+After this you are able to change your password after authenticating with duo, and after that an email will be sent to your ucsd email to change the password for the account we have select, there is one more step when you are done resetting your password.
+
+___
+
+# Step 3
+
+## Reconnceting to UCSD - Protected wifi for a smooth transition 

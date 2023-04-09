@@ -51,4 +51,37 @@ ___
 
 # Step 3
 
-## Reconnceting to UCSD - Protected wifi for a smooth transition 
+## Reconnceting to UCSD - Protected wifi for a smooth transition
+
+This is something we are going to have to do after we reset the password to our account, all we do is disconnect from the "UCSD - PROTECTED" wifi, and relog in with our active directory password and such.
+
+When thats done, give the account a good 15 - 20 minutes to finalize so the system gets your new password, remember patience is the key to this
+
+---
+# Step 4:
+
+## Log into the school account using SSH
+
+SSH is also known as "Secured Shell", which means when we are able to access a remote server from whereever we are, we can use SSH to access it since it is very secure. If we are tryng to access any ucsd account via ssh, we must make sure we are connected to the "UCSD - PROTECTED" Wifi as only this connection will allow us to connect to the reomte computer. 
+
+Now open up any terminal, (if you are on windows you are going to have to install git,w whereas mac already has something like that built in, rip bozo)
+
+(insert screenshot here)
+
+Now with whatever terminal you chose make sure to type in "ssh <account name>@ieng6.ucsd.edu"
+
+After it will ask for a password and thats where we put in the password we just reseted a while back. Put that password in here and we will have access to our remote computer just like that and we can use it for whatever our needs are 
+
+(Insert screen shot of successful log in of the remote computer)
+
+---
+
+# STEP 5 
+
+## Test out that the remote access works by putting some basic command prompts on the terminal
+
+Now that we are able to access our remote computer, lets make sure we are able to do things on it. For now we aren't skilled enough to tamper with anything too deep in it, so lets start by access the files it has by putting in some simple command prompts: 
+
+*Command Prompt 1:*
+
+  ls

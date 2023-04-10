@@ -97,7 +97,7 @@ ls allows us to view the files and directories that are in this account, for me 
 
 *Command Prompt 2:* 
 
-    `ls -a`
+`ls -a`
 
 now this command allows us to view all the available directories within this account, for now lets not tamper around with them but its a good way to start off using this computer remotely
 

@@ -89,4 +89,22 @@ Now that we are able to access our remote computer, lets make sure we are able t
 
 *Command Prompt 1:*
 
-  ls
+  `ls`
+
+ls allows us to view the files and directories that are in this account, for me the first thing that popped up was *perl5*
+
+![plsplspls](Screenshot 2023-04-09 at 9.49.59 PM)
+
+*Command Prompt 2:* 
+
+    `ls -a`
+
+now this command allows us to view all the available directories within this account, for now lets not tamper around with them but its a good way to start off using this computer remotely
+
+![helphelphelp](Screenshot 2023-04-09 at 9.53.36 PM)
+
+
+---
+
+After this whole experience, you now know how to access your cs account or whatever account you desire, and as well as resetting the password. In the future we will be able to mess around more with it but for now accessing it is good on its own. Thanks for reading and we shall see you next time
+

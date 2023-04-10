@@ -77,9 +77,8 @@ Now with whatever terminal you chose make sure to type in "ssh <account name>@ie
 
 After it will ask for a password and thats where we put in the password we just reseted a while back. Put that password in here and we will have access to our remote computer just like that and we can use it for whatever our needs are 
 
-(Insert screen shot of successful log in of the remote computer)
-
 ![workwork](Screenshot 2023-04-09 at 9.15.58 PM.png)
+
 ---
 
 # STEP 5 

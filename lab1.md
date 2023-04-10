@@ -37,11 +37,11 @@ ___
 
 Within the site we have access, make sure you go your way to the "Global Password Change Tool
 
-(Insert Screen Shot here)
+![testtest](Screenshot 2023-04-09 at 8.40.46 PM)
 
 Proceed where it says "Proceed to the Password Change Tool
 
-(Screen Shot here)
+![willittakeit](Screenshot 2023-04-09 at 8.49.51 PM.png)
 
 With the chosen name you selected, paste it In The AD Password Change tool where it says "Enter your username", this can be a class specific username like the cs15l one or your ucsd email account, which ever you please
 
@@ -55,6 +55,10 @@ ___
 
 This is something we are going to have to do after we reset the password to our account, all we do is disconnect from the "UCSD - PROTECTED" wifi, and relog in with our active directory password and such.
 
+Make sure we select "Forget network", on mac it would look like this:
+
+![okaybet](Screenshot 2023-04-09 at 8.53.05 PM.png)
+
 When thats done, give the account a good 15 - 20 minutes to finalize so the system gets your new password, remember patience is the key to this
 
 ---
@@ -64,16 +68,18 @@ When thats done, give the account a good 15 - 20 minutes to finalize so the syst
 
 SSH is also known as "Secured Shell", which means when we are able to access a remote server from whereever we are, we can use SSH to access it since it is very secure. If we are tryng to access any ucsd account via ssh, we must make sure we are connected to the "UCSD - PROTECTED" Wifi as only this connection will allow us to connect to the reomte computer. 
 
-Now open up any terminal, (if you are on windows you are going to have to install git,w whereas mac already has something like that built in, rip bozo)
+Now open up any terminal in my case I will use the mac terminal, (if you are on windows you are going to have to install git,w whereas mac already has something like that built in, rip bozo)
 
-(insert screenshot here)
+Now with whatever terminal you chose make sure to type in "ssh <account name>@ieng6.ucsd.edu", as shown here
 
-Now with whatever terminal you chose make sure to type in "ssh <account name>@ieng6.ucsd.edu"
+![okay](Screenshot 2023-04-09 at 9.06.28 PM.png)
+
 
 After it will ask for a password and thats where we put in the password we just reseted a while back. Put that password in here and we will have access to our remote computer just like that and we can use it for whatever our needs are 
 
 (Insert screen shot of successful log in of the remote computer)
 
+![workwork](Screenshot 2023-04-09 at 9.15.58 PM.png)
 ---
 
 # STEP 5 

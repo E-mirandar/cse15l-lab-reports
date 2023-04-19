@@ -62,15 +62,34 @@ Make sure we select "Forget network", on mac it would look like this:
 When thats done, give the account a good 15 - 20 minutes to finalize so the system gets your new password, remember patience is the key to this
 
 ---
-# Step 4:
+
+# Step 4
+
+## Downloading Visual Studio Code
+
+If you've ever taken previous CS classes such as CSE 8b/11 or 12, you should have Visual studio code since it is one of the most popular Coding IDE's, but if you are one of the few people who don't have it installed, let me show you.
+
+go to the main website: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+Make sure to pick the download file that fits your CPU type, for instance if you have an Apple Silicon powered mac, you must pick the download that is for that type of CPU
+as shown here: 
+
+![work?](/Users/mirae/Documents/GitHub/cse15l-lab-reports/Screenshot 2023-04-19 at 9.47.05 AM.png)
+ 
+I would say here is the better section to make sure you can get the perferred download for Visual studio code, wait for it to download and open it up
+
+Once downloaded make sure to open any file or create a new one since what we need Visual studio code for is for its built in terminal
+
+---
+# Step 5:
 
 ## Log into the school account using SSH
 
 SSH is also known as "Secured Shell", which means when we are able to access a remote server from whereever we are, we can use SSH to access it since it is very secure. If we are tryng to access any ucsd account via ssh, we must make sure we are connected to the "UCSD - PROTECTED" Wifi as only this connection will allow us to connect to the reomte computer. 
 
-Now open up any terminal in my case I will use the mac terminal, (if you are on windows you are going to have to install git,w whereas mac already has something like that built in, rip bozo)
+Now let us access this by using Visual Studio Code. The first thing we will like to do is open up the terminal by pressing Control+Shift+tilda (tilda is the button next to the 1 button), works both ways for both mac and windows
 
-Now with whatever terminal you chose make sure to type in "ssh <account name>@ieng6.ucsd.edu", as shown here
+Now in that terminal let us make sure to type in "ssh <account name>@ieng6.ucsd.edu", as shown here (yes I am using a different terminal, but it still works the same way within the VS code terminal)
 
 ![okay](Screenshot 2023-04-09 at 9.06.28 PM.png)
 
@@ -81,7 +100,7 @@ After it will ask for a password and thats where we put in the password we just 
 
 ---
 
-# STEP 5 
+# STEP 6 
 
 ## Test out that the remote access works by putting some basic command prompts on the terminal
 

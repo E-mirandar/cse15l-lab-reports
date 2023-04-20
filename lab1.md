@@ -37,7 +37,7 @@ ___
 
 Within the site we have access, make sure you go your way to the "Global Password Change Tool
 
-![testtest](Screenshot 2023-04-09 at 8.40.46 PM)
+![testtest](Screenshot 2023-04-09 at 8.40.46 PM.png)
 
 Proceed where it says "Proceed to the Password Change Tool
 
@@ -51,7 +51,7 @@ ___
 
 # Step 3
 
-## Reconnceting to UCSD - Protected wifi for a smooth transition
+## Reconnecting to UCSD - Protected wifi for a smooth transition
 
 This is something we are going to have to do after we reset the password to our account, all we do is disconnect from the "UCSD - PROTECTED" wifi, and relog in with our active directory password and such.
 
@@ -74,7 +74,7 @@ go to the main website: [https://code.visualstudio.com/](https://code.visualstud
 Make sure to pick the download file that fits your CPU type, for instance if you have an Apple Silicon powered mac, you must pick the download that is for that type of CPU
 as shown here: 
 
-![work?](/Users/mirae/Documents/GitHub/cse15l-lab-reports/Screenshot 2023-04-19 at 9.47.05 AM.png)
+![work?](DifferentDownloadsScreenshots.jpg)
  
 I would say here is the better section to make sure you can get the perferred download for Visual studio code, wait for it to download and open it up
 
@@ -89,14 +89,13 @@ SSH is also known as "Secured Shell", which means when we are able to access a r
 
 Now let us access this by using Visual Studio Code. The first thing we will like to do is open up the terminal by pressing Control+Shift+tilda (tilda is the button next to the 1 button), works both ways for both mac and windows
 
-Now in that terminal let us make sure to type in "ssh <account name>@ieng6.ucsd.edu", as shown here (yes I am using a different terminal, but it still works the same way within the VS code terminal)
+Now in that terminal let us make sure to type in "ssh <account name>@ieng6.ucsd.edu",After it will ask for a password and thats where we put in the password we just reseted a while back. Put that password in here and we will have access to our remote computer just like that and we can use it for whatever our needs are 
 
-![okay](Screenshot 2023-04-09 at 9.06.28 PM.png)
+![workwork](sshPasswordScreenie.jpg)
 
+A successful ssh log in will look like this 
 
-After it will ask for a password and thats where we put in the password we just reseted a while back. Put that password in here and we will have access to our remote computer just like that and we can use it for whatever our needs are 
-
-![workwork](Screenshot 2023-04-09 at 9.15.58 PM.png)
+![ssh](INsshScreenshot.jpg)
 
 ---
 
@@ -112,7 +111,7 @@ Now that we are able to access our remote computer, lets make sure we are able t
 
 ls allows us to view the files and directories that are in this account, for me the first thing that popped up was *perl5*
 
-![plsplspls](Screenshot 2023-04-09 at 9.49.59 PM.png)
+![plsplspls](FirstSSHcommand.jpg)
 
 *Command Prompt 2:* 
 
@@ -120,7 +119,7 @@ ls allows us to view the files and directories that are in this account, for me 
 
 now this command allows us to view all the available directories within this account, for now lets not tamper around with them but its a good way to start off using this computer remotely
 
-![helphelphelp](Screenshot 2023-04-09 at 9.53.36 PM.png)
+![helphelphelp](SecondsshCommand.jpg)
 
 
 ---

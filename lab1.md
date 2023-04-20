@@ -112,7 +112,7 @@ Now that we are able to access our remote computer, lets make sure we are able t
 
 ls allows us to view the files and directories that are in this account, for me the first thing that popped up was *perl5*
 
-![plsplspls](Screenshot 2023-04-09 at 9.49.59 PM)
+![plsplspls](Screenshot 2023-04-09 at 9.49.59 PM.png)
 
 *Command Prompt 2:* 
 
@@ -120,7 +120,7 @@ ls allows us to view the files and directories that are in this account, for me 
 
 now this command allows us to view all the available directories within this account, for now lets not tamper around with them but its a good way to start off using this computer remotely
 
-![helphelphelp](Screenshot 2023-04-09 at 9.53.36 PM)
+![helphelphelp](Screenshot 2023-04-09 at 9.53.36 PM.png)
 
 
 ---

@@ -30,7 +30,7 @@ One of the bugs I found that caught my eye was within the ArrayExamples class
 
 The bug is a failure-inducing input is any non-empty list
 
-Here is the buggy code:
+Here are some of the tests I made to try it on the buggy code:
 
 ``` 
 @Test
@@ -50,8 +50,11 @@ public void testReverse() {
     assertArrayEquals(new int[]{5,4,3,2,1}, output)
 } 
 ```
+Here is me running the tests but it came out with errors tho, which is what I suspected to begin with
+![tryingthesetests](tryingthesetests.png)
 
-Here is the buggy code 
+
+Here is the buggy code:
 
 ``` 
 static int[] reverse(int[] arr) { 

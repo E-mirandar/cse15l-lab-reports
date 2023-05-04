@@ -31,6 +31,7 @@ One of the bugs I found that caught my eye was within the ArrayExamples class
 The bug is a failure-inducing input is any non-empty list
 
 Here is the buggy code:
+
 ``` 
 @Test
 public void testReverse2() { 
@@ -41,6 +42,7 @@ public void testReverse2() {
 ```
 
 An input that doesn't induce a failure  would be an empty list, Which is shown here:
+
 ```
 @Test 
 public void testReverse() { 
@@ -59,6 +61,7 @@ static int[] reverse(int[] arr) {
     }
     return newArray;
 }
+
 ```
 The way you would fix this code would be ti simply just swap arr[i] with newArray since arr[i] is the index we are looping over and newArray is the empty array we created that we need to fill in with our inputted array
 Which is shown here: 

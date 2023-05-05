@@ -20,9 +20,7 @@ You might be wondering, what does the keywords More do? Well like less it does o
 Example 1:
 Here is how you can call it on one of the files in the technical directory:
 ```
-{
 more stringsearch-data/technical/911report/chapter-1.txt
-}
 ```
 <morebegining>
 
@@ -37,9 +35,7 @@ If you press B on your keyboard you go backwards:
 Example 2
 Another interesting way you can use more is by being explicit with how many lines you want to go forwards in
 ```
-{
     more -100 stringsearch-data/technical/911report/chapter-1.txt
-}
 ```
 
 Here I emphasized that I should move forward in the text ever 100 lines, which makes going through the text a lot faster since it skips every 100 lines

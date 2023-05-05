@@ -45,3 +45,32 @@ Here I emphasized that I should move forward in the text ever 100 lines, which m
 ---
 ### Head
 
+Head shows the beginning portion of a file
+
+Example 3
+Head is pretty interesting since what it does is it shows the top portion of text in the given file as such:
+```
+head stringsearch-data/technical/plos/journal/plos/journal.pbio.0030021.txt
+```
+<Head1>
+
+Example 4
+Something I also found very interesting was that you can show out the amount of bytes in a file as shown:
+```
+head -c 3k stringsearch-data/technical/plos/journal.pbio.0030021.txt
+```
+<Head3kbytes>
+
+these are the first 3 thousand bytes of the file which could be potentially useful?
+---
+
+### Tail
+
+Tail is similar to head where instead of showing the beginning portion of the file, it shows the last portion of the file.
+
+
+
+
+
+
+

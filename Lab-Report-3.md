@@ -62,8 +62,8 @@ head -c 3k stringsearch-data/technical/plos/journal.pbio.0030021.txt
 ![head2](Head3kbytes.png)
 
 these are the first 3 thousand bytes of the file which is pretty cool to see that all of these text create up to 3k bytes 
----
 
+---
 ### Tail
 
 Tail is similar to head where instead of showing the beginning portion of the file, it shows the last portion of the file, hence the name.
@@ -87,6 +87,7 @@ tail -c 2k stringsearch-data/technical/government/Alcohol_Problems/Session3-PDF.
 
 As shown here it prints out the last 2k bytes of the given text file which is cool seeing that we can use it for both the beginning and end of the file. 
 
+---
 ## nl 
 
 nl is a simple command that allows you to print out the number lines in a text file, but there are interesting things you can do with this basic command 

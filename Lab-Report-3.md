@@ -104,7 +104,7 @@ Example 8:
 ```
 nl -i 100 stringsearch-data/technical/plos/journal.pbio.0030102.txt
 ```
-![incremetor](Incremetorlinething?.png)
+![incremetor](Incremetorlinething.png)
 
 Here we add an incrementor that increases the every line of text by 100 lines if we would ever create a new text file with this command we would create a long text file of text being shown ever 100 lines
 

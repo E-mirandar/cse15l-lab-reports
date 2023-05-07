@@ -13,7 +13,7 @@ Within my research I was able to find 4 other alternates of the command **less**
 
 ## Alternate ways to use Less without using the command Less
 
-### More
+## More
 
 You might be wondering, what does the keywords More do? Well like less it does output the text within a file, but in a different way. Such as by pressing a certain keybind the text will scroll a certain percentage or backwards. It will always print out the whole text within a file but through a progressive way.
 
@@ -43,7 +43,7 @@ Here I emphasized that I should move forward in the text ever 100 lines, which m
 ![works](moreGoing100.png)
 
 ---
-### Head
+## Head
 
 Head shows the beginning portion of a file
 
@@ -64,7 +64,7 @@ head -c 3k stringsearch-data/technical/plos/journal.pbio.0030021.txt
 these are the first 3 thousand bytes of the file which is pretty cool to see that all of these text create up to 3k bytes 
 
 ---
-### Tail
+## Tail
 
 Tail is similar to head where instead of showing the beginning portion of the file, it shows the last portion of the file, hence the name.
 

@@ -22,15 +22,15 @@ Here is how you can call it on one of the files in the technical directory:
 ```
 more stringsearch-data/technical/911report/chapter-1.txt
 ```
-<morebegining>
+![yes](MoreBegning.png)
 
 As we can see we can see only a small portion of the larger text, if we press f, it allows us to go forward a small percentage this is shown below, also if you press s or d, you can go forward a smaller percentage, th
 
-<moreGoingForward>
+![ok](MoreGoingForward.png)
 
 If you press B on your keyboard you go backwards:
 
-<moregoingbackwards>
+![yay](MoreGoingback.png)
 
 Example 2
 Another interesting way you can use more is by being explicit with how many lines you want to go forwards in
@@ -40,7 +40,7 @@ Another interesting way you can use more is by being explicit with how many line
 
 Here I emphasized that I should move forward in the text ever 100 lines, which makes going through the text a lot faster since it skips every 100 lines
 
-<moregoing100>
+![works](moreGoing100.png)
 
 ---
 ### Head
@@ -52,16 +52,16 @@ Head is pretty interesting since what it does is it shows the top portion of tex
 ```
 head stringsearch-data/technical/plos/journal/plos/journal.pbio.0030021.txt
 ```
-<Head1>
+![head](Head1.png)
 
 Example 4
 Something I also found very interesting was that you can show out the amount of bytes in a file as shown:
 ```
 head -c 3k stringsearch-data/technical/plos/journal.pbio.0030021.txt
 ```
-<Head3kbytes>
+![head2](Head3kbytes.png)
 
-these are the first 3 thousand bytes of the file which could be potentially useful?
+these are the first 3 thousand bytes of the file which is pretty cool to see that all of these text create up to 3k bytes 
 ---
 
 ### Tail
@@ -74,7 +74,7 @@ Here is how you would call it for a text file:
 tail searchstring-data/technical/government/Alcohol_Problems/Session2-PDF.txt
 ```
 
-<tailcallingfirsttime>
+![bro](tailCallingFirsttime.png)
 
 Here the terminal is able to print out the last 7 lines of the 629 lines within the given text file in the government direcetory
 
@@ -83,7 +83,7 @@ Another way you can use the tail command is being as well select the certain amo
 ```
 tail -c 2k stringsearch-data/technical/government/Alcohol_Problems/Session3-PDF.txt
 ```
-<tail2kBYTES>
+![OH](tail2kBYTES.png)
 
 As shown here it prints out the last 2k bytes of the given text file which is cool seeing that we can use it for both the beginning and end of the file. 
 
@@ -95,7 +95,7 @@ Example 7:
 ```
 nl -s ..... stringsearch-data/technical/plos/journal.pbio.0030102.txt
 ```
-<addsSeperator>
+![seperator](Addseperator.png)
 
 Here within the amount of lines shown we can add a little seperator and what I did were little periods that extend onto it, you can insert any form of string and it will be placed in the seperator 
 
@@ -103,7 +103,7 @@ Example 8:
 ```
 nl -i 100 stringsearch-data/technical/plos/journal.pbio.0030102.txt
 ```
-<addIncrementor>
+![incremetor](Incremetorlinething?.png)
 
 Here we add an incrementor that increases the every line of text by 100 lines if we would ever create a new text file with this command we would create a long text file of text being shown ever 100 lines
 

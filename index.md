@@ -17,3 +17,4 @@ why am I doing 5 classes you may ask? Cause I have no social life lololololol
 
 [Lab 1](https://e-mirandar.github.io/cse15l-lab-reports/lab1.html)
 [Lab 2](https://e-mirandar.github.io/cse15l-lab-reports/Lab-Report-2.html)
+[Lab 3](https://e-mirandar.github.io/cse15l-lab-reports/Lab-Report-2.html)

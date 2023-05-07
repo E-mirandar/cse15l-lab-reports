@@ -66,11 +66,60 @@ these are the first 3 thousand bytes of the file which could be potentially usef
 
 ### Tail
 
-Tail is similar to head where instead of showing the beginning portion of the file, it shows the last portion of the file.
+Tail is similar to head where instead of showing the beginning portion of the file, it shows the last portion of the file, hence the name.
+
+Example 5: 
+Here is how you would call it for a text file:
+```
+tail searchstring-data/technical/government/Alcohol_Problems/Session2-PDF.txt
+```
+
+<tailcallingfirsttime>
+
+Here the terminal is able to print out the last 7 lines of the 629 lines within the given text file in the government direcetory
+
+Example 6:
+Another way you can use the tail command is being as well select the certain amount of bytes we want a file to output such as
+```
+tail -c 2k stringsearch-data/technical/government/Alcohol_Problems/Session3-PDF.txt
+```
+<tail2kBYTES>
+
+As shown here it prints out the last 2k bytes of the given text file which is cool seeing that we can use it for both the beginning and end of the file. 
+
+## nl 
+
+nl is a simple command that allows you to print out the number lines in a text file, but there are interesting things you can do with this basic command 
+
+Example 7:
+```
+nl -s ..... stringsearch-data/technical/plos/journal.pbio.0030102.txt
+```
+<addsSeperator>
+
+Here within the amount of lines shown we can add a little seperator and what I did were little periods that extend onto it, you can insert any form of string and it will be placed in the seperator 
+
+Example 8:
+```
+nl -i 100 stringsearch-data/technical/plos/journal.pbio.0030102.txt
+```
+<addIncrementor>
+
+Here we add an incrementor that increases the every line of text by 100 lines if we would ever create a new text file with this command we would create a long text file of text being shown ever 100 lines
+
+---
+
+These are some examples of alternate way to use the less command without using less itself, every example is pretty interesting and have their own unique trait towards them. 
+
+---
+links where I found the in
+
+more usuage (https://www.geeksforgeeks.org/more-command-in-linux-with-examples/)
 
 
+tail usuage (https://www.howtogeek.com/481766/how-to-use-the-tail-command-on-linux/)
 
+head usage (https://linuxize.com/post/linux-head-command/)
 
-
-
-
+nl usage (https://www.putorius.net/nl-command-basic-usage.html)
+more nl (https://www.ibm.com/docs/en/aix/7.2?topic=n-nl-command)

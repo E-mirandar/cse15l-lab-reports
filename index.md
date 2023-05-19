@@ -15,6 +15,14 @@
 
 why am I doing 5 classes you may ask? Cause I have no social life lololololol
 
+UPDATE 5/19/23: 
+I have dropped 2 classes. 
+ 1. PHYS 2a 
+ 2. CSE 12
+
+I couldnt handle 5 classes sadly, and then got way behind on cse 12, so only taking 3 classes lol. Welp happens to the best of us. 
+
 [Lab 1](https://e-mirandar.github.io/cse15l-lab-reports/lab1.html)
 [Lab 2](https://e-mirandar.github.io/cse15l-lab-reports/Lab-Report-2.html)
 [Lab 3](https://e-mirandar.github.io/cse15l-lab-reports/Lab-Report-3.html)
+[Lab 4](https://e-mirandar.github.io/cse15l-lab-reports/Lab-Report-4.html)

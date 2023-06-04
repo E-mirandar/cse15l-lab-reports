@@ -26,3 +26,4 @@ I couldnt handle 5 classes sadly, and then got way behind on cse 12, so only tak
 [Lab 2](https://e-mirandar.github.io/cse15l-lab-reports/Lab-Report-2.html)
 [Lab 3](https://e-mirandar.github.io/cse15l-lab-reports/Lab-Report-3.html)
 [Lab 4](https://e-mirandar.github.io/cse15l-lab-reports/Lab-Report-4.html)
+[Lab 5](https://e-mirandar.github.io/cse15l-lab-reports/Lab-Report-5.html)

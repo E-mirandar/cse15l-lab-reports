@@ -62,6 +62,7 @@ And when running the bash script in the command line and looking at our out put 
 Now when the user throws any form of test to this method, it should always pass majority of the time.
 
 For this scenario we Didn't really need to go out of the main directory from where we were in since for the most part everything worked well in the same working directory.
+
 ---
 
 # Part 2 Reflection
